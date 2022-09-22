@@ -1,0 +1,17 @@
+Taller TemáticoRealizar la instalación de Node.js junto con un editor de texto (En su preferencia Visual Studio Code).
+
+
+Instalar Angular CLI por medio de NPM y comenzar un nuevo proyecto, que abriremos en Visual Studio Code.
+
+Tomar pantallazos al directorio que se encuentra el proyecto y explicar brevemente de que tratan las carpetas app, assets y enviroments.
+
+La carpeta APP: En Angular la carpeta app podemos encontrar toda la implementacion de los componentes principales. Junto con su template html 
+como archivos CSS para estilos.
+
+La carpeta ASSETS: En esta carpeta, estan ubicados los assets y archivos adicionales para el funcionamiento de nuestro proyecto.
+
+La carpeta ENVIROMENTS: Lo que es en esta carpeta son las configuraciones y variables de entorno para que podamos poner nuestro proyecto en desarrollo.
+
+
+
+Instalar dentro del proyecto Boostrap y Font-Awesome.Instalación y configuración Angular
