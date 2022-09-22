@@ -1,4 +1,4 @@
-Taller TemáticoRealizar la instalación de Node.js junto con un editor de texto (En su preferencia Visual Studio Code).
+Taller Temático:Realizar la instalación de Node.js junto con un editor de texto (En su preferencia Visual Studio Code).
 
 
 Instalar Angular CLI por medio de NPM y comenzar un nuevo proyecto, que abriremos en Visual Studio Code.
